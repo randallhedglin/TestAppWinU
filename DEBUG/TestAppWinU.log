@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  MainPage.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+  XamlTypeInfo.g.cpp
+     Creating library c:\users\randall hedglin\documents\visual studio 2015\Projects\TestAppWinU\Debug\TestAppWinU\TestAppWinU.lib and object c:\users\randall hedglin\documents\visual studio 2015\Projects\TestAppWinU\Debug\TestAppWinU\TestAppWinU.exp
+  TestAppWinU.vcxproj -> c:\users\randall hedglin\documents\visual studio 2015\Projects\TestAppWinU\Debug\TestAppWinU\TestAppWinU.exe
